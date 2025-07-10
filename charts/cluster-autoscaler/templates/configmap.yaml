@@ -84,18 +84,18 @@ data:
         - address: kind-control-plane
           type: Hostname
         allocatable:
-          cpu: "12"
+          cpu: "16"
           ephemeral-storage: 959786032Ki
           hugepages-1Gi: "0"
           hugepages-2Mi: "0"
-          memory: 32781516Ki
+          memory: 32Gi
           pods: "110"
         capacity:
-          cpu: "12"
+          cpu: "16"
           ephemeral-storage: 959786032Ki
           hugepages-1Gi: "0"
           hugepages-2Mi: "0"
-          memory: 32781516Ki
+          memory: 32Gi
           pods: "110"
         conditions:
         - lastHeartbeatTime: "2023-05-31T04:39:58Z"
@@ -202,18 +202,18 @@ data:
         - address: kind-worker
           type: Hostname
         allocatable:
-          cpu: "12"
+          cpu: "16"
           ephemeral-storage: 959786032Ki
           hugepages-1Gi: "0"
           hugepages-2Mi: "0"
-          memory: 32781516Ki
+          memory: 32Gi
           pods: "110"
         capacity:
-          cpu: "12"
+          cpu: "16"
           ephemeral-storage: 959786032Ki
           hugepages-1Gi: "0"
           hugepages-2Mi: "0"
-          memory: 32781516Ki
+          memory: 32Gi
           pods: "110"
         conditions:
         - lastHeartbeatTime: "2023-05-31T04:40:17Z"
@@ -320,18 +320,18 @@ data:
         - address: kind-worker2
           type: Hostname
         allocatable:
-          cpu: "12"
+          cpu: "16"
           ephemeral-storage: 959786032Ki
           hugepages-1Gi: "0"
           hugepages-2Mi: "0"
-          memory: 32781516Ki
+          memory: 32Gi
           pods: "110"
         capacity:
-          cpu: "12"
+          cpu: "16"
           ephemeral-storage: 959786032Ki
           hugepages-1Gi: "0"
           hugepages-2Mi: "0"
-          memory: 32781516Ki
+          memory: 32Gi
           pods: "110"
         conditions:
         - lastHeartbeatTime: "2023-05-31T04:40:17Z"
